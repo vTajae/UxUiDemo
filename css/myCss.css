@@ -1,0 +1,25 @@
+.greenSquare {
+    width: 100%;
+    height: 100px;
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.greenSquare p {
+    font-size: 2vw;
+}
+
+.purpleSquare {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(109, 0, 235);
+    display: flex;
+    justify-content: center;
+    
+}
+
+.showcase {
+
+}
